@@ -1143,6 +1143,12 @@ categories:
         openSource: true
         acceptsCrypto: true
 
+        - name: Vestige
+          description: Local-first, zero-trust email archaeology tool to discover hidden account sign-ups.
+          url: https://github.com/Threnark/Vestige
+          github: Threnark/Vestige
+          openSource: true
+
       notableMentions: >
         If you are using ProtonMail, then the [ProtonMail Bridge](https://protonmail.com/bridge/thunderbird)
         enables you to sync & backup your emails to your own desktop mail client.

@@ -403,7 +403,8 @@ Revealing your real email address online can put you at risk. Email aliasing all
 
 - **[<img src='https://icon.horse/icon/www.emailprivacytester.com' width='14' alt='' /> Email Privacy Tester](https://www.emailprivacytester.com/)** - Tests whether your mail client "reads" emails before you open them, and what analytics, read-receipts or other tracking data it leaks back to the sender. Developed by [Mike Cardwell](https://www.grepular.com/); use a spare addres[…](https://awesome-privacy.xyz/communication/email-security-tools/email-privacy-tester "View full Email Privacy Tester report") 
 - **[<img src='https://addons.thunderbird.net/user-media/addon_icons/438/438634-64.png' width='14' alt='' /> DKIM Verifier](https://addons.thunderbird.net/en-US/thunderbird/addon/dkim-verifier/?collection_id=a5557f08-eafd-7a39-81c6-09127da790f7)** - Verifies DKIM signatures and shows the result in the e-mail header, in order to help spot spoofed emails (which do not come from the domain that they claim to). 
-- **[<img src='https://www.paperweight.email/icon.png' width='14' alt='' /> Paperweight](https://www.paperweight.email/)** - Paperweight scans your inbox to map your digital footprint, then helps you take back control and delete your data. 
+- **[<img src='https://www.paperweight.email/icon.png' width='14' alt='' /> Paperweight](https://www.paperweight.email/)** - Paperweight scans your inbox to map your digital footprint, then helps you take back control and delete your data.
+- **[<img src='https://img.icons8.com/color/48/search-property.png' width='14' alt='' /> Vestige](https://github.com/Threnark/Vestige)** - Local-first, zero-trust email archaeology tool to discover hidden account sign-ups.
 
 <details>
 <summary>✳️ <b>Notable Mentions</b></summary>

@@ -1186,7 +1186,15 @@ categories:
       - name: MicroSip
         url: https://www.microsip.org
         description: An open source portable SIP softphone for Windows based on PJSIP stack
-
+      - name: Vestige
+        url: https://github.com/Threnark/Vestige
+        openSource: true
+        icon: https://raw.githubusercontent.com/Threnark/Vestige/1acba7ce7d9407548d2b276478c20e9138a742fc/assets/vestige_icon.svg
+        github: Threnark/Vestige
+        description: |
+          A privacy focused desktop program that goes through email archives and IMAP connections
+          to discover forgotten account sign ups. Requires local LLM hardware or an API key.
+          
     ###################################
     ###### Virtual Phone Numbers ######
     ###################################
